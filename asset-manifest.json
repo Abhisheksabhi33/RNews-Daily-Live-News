@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RNews-Daily-Live-News/static/css/main.abd64e84.css",
+    "main.js": "/RNews-Daily-Live-News/static/js/main.16320d35.js",
+    "static/js/787.4c026eef.chunk.js": "/RNews-Daily-Live-News/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/RNews-Daily-Live-News/static/media/loading.f4d71b7e2329eafbaea7.gif",
+    "index.html": "/RNews-Daily-Live-News/index.html",
+    "main.abd64e84.css.map": "/RNews-Daily-Live-News/static/css/main.abd64e84.css.map",
+    "main.16320d35.js.map": "/RNews-Daily-Live-News/static/js/main.16320d35.js.map",
+    "787.4c026eef.chunk.js.map": "/RNews-Daily-Live-News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.16320d35.js"
+  ]
+}
